@@ -1,0 +1,2 @@
+This is the first file created using fswriteFileSync which is read as 'File System,
+please create a text file named 'TemporaryFile' and overwrite its existing content in sync mode'.
